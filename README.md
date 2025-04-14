@@ -6,7 +6,9 @@
 - Trained a model to predict the number of bikes rented hourly in Seuol, South Korea, helping local government plan for demand.
 - Achieved an R<sup>2</sup> of 0.93 on the test set using Extreme Gradient Boosted Trees (Linear regression also tested).
 - Estimated the optimal set of hyperparamters using GridSearchCV.
-- Added a "day of the week" feature, which significantly boosted performance. 
+- Added a "day of the week" feature, which significantly boosted performance.
+
+![](https://github.com/MarkHague/portfolio/blob/main/images/scatter_test_set_hour_in_color.png)
 
 [Project 2: Calgary Solar Array Prediction](https://github.com/MarkHague/calgary_solar_production/)
 
