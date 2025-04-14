@@ -1,6 +1,6 @@
-# Mark's Portfolio
+# Mark's ML Portfolio
 
-[Project 1: Calgary Solar Array Prediction](https://github.com/MarkHague/calgary_solar_production/)
+## [Project 1: Calgary Solar Array Prediction](https://github.com/MarkHague/calgary_solar_production/)
 
 - Built a tool to predict Calgary's solar output, providing valuable information to the city's grid operators.
 - Identified several issues with the original dataset (e.g. abrupt change in units, dust on the panels).
@@ -9,7 +9,7 @@
 
 <img src="https://github.com/MarkHague/portfolio/blob/main/images/scatter_calgary_top3_shortwave_in_color.png" width = "300">
 
-[Project 2: Seuol Bike Sharing Demand](https://github.com/MarkHague/seoul_bike_sharing_demand)
+## [Project 2: Seuol Bike Sharing Demand](https://github.com/MarkHague/seoul_bike_sharing_demand)
 
 - Trained a model to predict the number of bikes rented hourly in Seuol, South Korea, helping local government plan for demand.
 - Achieved an R<sup>2</sup> of 0.93 on the test set using Extreme Gradient Boosted Trees (Linear regression also tested).
