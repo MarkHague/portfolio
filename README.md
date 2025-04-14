@@ -8,7 +8,7 @@
 - Estimated the optimal set of hyperparamters using GridSearchCV.
 - Added a "day of the week" feature, which significantly boosted performance.
 
-<img src="https://github.com/MarkHague/portfolio/blob/main/images/scatter_test_set_hour_in_color.png" width="100" height="100">
+<img src="https://github.com/MarkHague/portfolio/blob/main/images/scatter_test_set_hour_in_color.png" width="350" height="350">
 
 [Project 2: Calgary Solar Array Prediction](https://github.com/MarkHague/calgary_solar_production/)
 
