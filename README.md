@@ -7,7 +7,7 @@
 - Leveraged the OpenMeteo API for training and forecasting. 
 - Added functionality to pull the latest weather prediction and produce a 10-day forecast.
 
-<img src="https://github.com/MarkHague/portfolio/blob/main/images/scatter_calgary_top3_shortwave_in_color.png" width = "300">
+<img src="https://github.com/MarkHague/portfolio/blob/main/images/scatter_calgary_top3_shortwave_in_color.jpg" width = "300">
 
 ## [Project 2: Seuol Bike Sharing Demand](https://github.com/MarkHague/seoul_bike_sharing_demand)
 
