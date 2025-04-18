@@ -10,7 +10,7 @@
 - Identified several potential avenues to improve performance in collaboration with the city.
 
 
-|<img src="images/scatter_calgary_top3_shortwave_in_color.jpg" width = "300">|<img src="images/map_of_locations_with_scale.png" width = "200">|
+|<img src="images/scatter_calgary_top3_shortwave_in_color.jpg" width = "300">|<img src="images/map_of_locations_with_scale.png" width = "300">|
 |:---:|:---:|
 | Predicted vs. actual solar output for the 3 largest arrays.| Map of each array location across the city.|
 
