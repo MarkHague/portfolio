@@ -2,10 +2,12 @@
 
 ## [Project 1: Calgary Solar Array Prediction](https://github.com/MarkHague/calgary_solar_production/)
 
-- Built a tool to predict Calgary's solar output, providing valuable information to the city's grid operators.
-- Identified several issues with the original dataset (e.g. abrupt change in units, dust on the panels).
-- Leveraged the OpenMeteo API for training and forecasting. 
+- Built a tool to predict City of Calgary's hourly solar output, providing valuable information to the city's grid operators.
+- Achieved an average R<sup>2</sup> of 0.79 on the test set, despite inherent limitations of the data (see project page for more details).
+- Addressed several issues with the original dataset (e.g. abrupt change in units, dust on the panels).
+- Leveraged the OpenMeteo API for training and forecasting data. 
 - Added functionality to pull the latest weather prediction and produce a 10-day forecast.
+- Identified several potential avenues to improve performance in collaboration with the city.
 
 <img src="images/scatter_calgary_top3_shortwave_in_color.jpg" width = "300">
 
