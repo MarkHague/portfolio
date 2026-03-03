@@ -1,6 +1,6 @@
 # Mark's ML Portfolio
 
-## [Project 1: Calgary Solar Array Prediction](https://github.com/MarkHague/calgary_solar_production/)
+## [Project 1: Calgary Solar Output Prediction](https://github.com/MarkHague/calgary_solar_production/)
 
 - Built a tool to predict City of Calgary's hourly solar output, providing valuable information to the city's grid operators.
 - Achieved an average R<sup>2</sup> of 0.79 on the test set, despite inherent limitations of the data (see project page for more details).
@@ -16,7 +16,10 @@
 
 ## [Project 2: Dusty Solar Panel Detection](https://github.com/MarkHague/dusty_solar_panel_prediction)
 - An ongoing project aimed at detecting when solar panels require cleaning.
-- Achieved ~80% accuracy with a small dataset using transfer learning and the [MobileNetV2 model](https://huggingface.co/papers/1801.04381).
+- Achieved ~80% accuracy using transfer learning and the [MobileNetV2 model](https://huggingface.co/papers/1801.04381).
+- Leveraged a model trained on a small dataset to detect incorrect labels on new images extracted with the [Oxylabs API](https://developers.oxylabs.io/scraping-solutions/web-scraper-api/targets/google/search/image-search).
+
+<img src="images/Imgdirty_10_1.jpg" width="400">
 
 ## [Project 3: Seuol Bike Sharing Demand](https://github.com/MarkHague/seoul_bike_sharing_demand)
 
