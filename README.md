@@ -14,7 +14,11 @@
 |:---:|:---:|
 | Predicted vs. actual solar output for the 3 largest arrays.| Map of each array location across the city.|
 
-## [Project 2: Seuol Bike Sharing Demand](https://github.com/MarkHague/seoul_bike_sharing_demand)
+## [Project 2: Dusty Solar Panel Detection](https://github.com/MarkHague/dusty_solar_panel_prediction)
+- An ongoing project aimed at detecting when solar panels require cleaning.
+- Achieved ~80% accuracy with a small dataset using transfer learning and the [MobileNetV2 model](https://huggingface.co/papers/1801.04381).
+
+## [Project 3: Seuol Bike Sharing Demand](https://github.com/MarkHague/seoul_bike_sharing_demand)
 
 - Trained a model to predict the number of bikes rented hourly in Seuol, South Korea, helping local government plan for demand.
 - Achieved an R<sup>2</sup> of 0.93 on the test set using Extreme Gradient Boosted Trees (Linear regression also tested).
@@ -23,4 +27,4 @@
 
 <img src="images/scatter_test_set_hour_in_color.png" width="350">
 
-[Project 3: Dusty Solar Panel Detection]
+
